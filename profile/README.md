@@ -2,7 +2,7 @@
 
 **Rhodes Island | Engineering & Systems Development**
 
-<p align="center">
+<p>
   <img src="https://i.imgur.com/zQtHqB9.png" width="100%">
 </p>
 ---
