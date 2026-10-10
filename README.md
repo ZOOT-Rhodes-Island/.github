@@ -1,9 +1,9 @@
-# ZOOT — Zeroth Order Oil Tank
+# ZOOT (Zeroth Order Oil Tank)
 
 **Rhodes Island | Engineering & Systems Development**
 
 <p align="center">
-  <img src="https://i.imgur.com/paXRgi6.jpeg" width="100%">
+  <img src="https://i.imgur.com/paXRgi6.jpeg" width="50%">
 </p>
 
 ---
