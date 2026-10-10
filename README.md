@@ -17,7 +17,7 @@
 
 ### Overview
 
-ZOOT (Zeroth Order Oil Tank) is an independent engineering and research initiative established by Closure following the PRTS incident aboard Rhodes Island's landship.
+ZOOT (Zeroth Order Oil Tank) is an artificial intelligence and research initiative established by Closure following the PRTS incident aboard Rhodes Island's landship.
 
 Created in response to the vulnerabilities exposed during the incident, ZOOT represents an effort to rethink the relationship between operators, infrastructure, and autonomous systems.
 
