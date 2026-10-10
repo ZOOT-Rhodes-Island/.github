@@ -8,7 +8,7 @@
 
 ---
 
-### [ SYSTEM INFORMATION ]
+### [ INFORMATION ]
 
 **Designation:** ZOOT  
 **Full Name:** Zeroth Order Oil Tank  
