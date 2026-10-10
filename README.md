@@ -27,8 +27,6 @@ Created in response to the vulnerabilities exposed during the incident, ZOOT rep
   <img src="https://i.imgur.com/AqUHemT.jpeg" width="100%">
 </p>
 
-
-**Rhodes Island Engineering**  
-*- Rhodes Island*
+*- Rhodes Island Engineering*  
 
 ---
