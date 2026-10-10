@@ -3,9 +3,8 @@
 **Rhodes Island | Engineering & Systems Development**
 
 <p align="center">
-  <img src="https://i.imgur.com/dbjPywQ.png" width="30%">
+  <img src="https://i.imgur.com/zQtHqB9.png" width="100%">
 </p>
-
 ---
 
 ### [ INFORMATION ]
@@ -24,8 +23,9 @@ Created in response to the vulnerabilities exposed during the incident, ZOOT rep
 ### [ END OF TRANSMISSION ]
 
 <p align="center">
-  <img src="https://i.imgur.com/zQtHqB9.png" width="100%">
+  <img src="https://i.imgur.com/dbjPywQ.png" width="30%">
 </p>
+
 
 *- Rhodes Island Engineering*  
 
