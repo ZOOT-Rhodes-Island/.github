@@ -24,7 +24,7 @@ Created in response to the vulnerabilities exposed during the incident, ZOOT rep
 ### [ END OF TRANSMISSION ]
 
 <p align="center">
-  <img src="https://i.imgur.com/AqUHemT.jpeg" width="100%">
+  <img src="https://i.imgur.com/zQtHqB9.png" width="100%">
 </p>
 
 *- Rhodes Island Engineering*  
