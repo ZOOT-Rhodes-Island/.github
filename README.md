@@ -24,7 +24,7 @@ Created in response to the vulnerabilities exposed during the incident, ZOOT rep
 ### [ END OF TRANSMISSION ]
 
 <p align="center">
-  <img src="https://i.imgur.com/AqUHemT.jpeg" width="30%">
+  <img src="https://i.imgur.com/AqUHemT.jpeg" width="100%">
 </p>
 
 
