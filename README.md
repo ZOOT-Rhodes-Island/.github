@@ -23,6 +23,11 @@ Created in response to the vulnerabilities exposed during the incident, ZOOT rep
 
 ### [ END OF TRANSMISSION ]
 
+<p align="center">
+  <img src="https://i.imgur.com/AqUHemT.jpeg" width="30%">
+</p>
+
+
 **Rhodes Island Engineering**  
 *- Rhodes Island*
 
