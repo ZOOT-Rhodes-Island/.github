@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://i.imgur.com/dbjPywQ.png" width="30%">
-  <img src="https://i.imgur.com/InKwvQQ.jpeg" width="30%">
 </p>
 
 ---
